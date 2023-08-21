@@ -1,5 +1,5 @@
-# Hello...
-      i'm Tejashri Bachkar, a ambitious & determined student of GCOERA.focusing on my passion towards the Software developer. i have a sufficient knowldge of java, machine learning,c++/Diligent professional with Bachlor of engineering in computer science. I like to collaborate and solving problems.
+# Hey there, I'm [Tejashri Bachkar],
+       A ambitious & determined student of GCOERA.focusing on my passion towards the Software developer. i have a sufficient knowldge of java, machine learning,c++/Diligent professional with Bachlor of engineering in computer science. I like to collaborate and solving problems.
 ## Things I am passionate about
 * java 🤖
 * machine learning ❤️
