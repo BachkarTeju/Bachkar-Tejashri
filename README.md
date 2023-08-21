@@ -11,7 +11,7 @@
 💬 ask me about anything, i am happy to help you! get in touch with my **EMAIL**
  ## LinkedIn:
  
- www.linkedin.com/in/tejashri-bachkar-a01247211
+ -.[LinkedIn Tejashri Bachkar](www.linkedin.com/in/tejashri-bachkar-a01247211)
 
 ## Skills:
 Languages:
