@@ -5,7 +5,7 @@
 * java 🤖
 * machine learning ❤️
 * coding & Tea ☕!
-* 🔭 I’m currently practicing in Git, Github, Command Line.
+* 🔭 I’m currently practicing on Git, Github, Command Line.
 * 🌱  learning fullstack Java development.
 
 
