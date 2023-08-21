@@ -1,5 +1,5 @@
 # Hey there, I'm [Tejashri Bachkar]👩🏻‍💻,👋
-<h6></h6> A ambitious & determined student of GCOERA.focusing on my passion of Software developer👩🏻‍💻. I have a sufficient knowldge of java, machine learning,c++. Diligent professional with Bachlor of engineering in 🖥️. I like to collaborate with peoples 👯 and solving real world problems.</h6>
+<h6></h6> A ambitious & determined student of GCOERA.focusing on my passion of Software developer👩🏻‍💻. I have a sufficient knowldge of java, machine learning,c++. Diligent professional with Bachelor of engineering in 🖥️. I like to collaborate with people 👯 and solving real world problems.</h6>
       
 ## Things I am passionate about
 * java 🤖
